@@ -1,0 +1,19 @@
+# ESP-IDF build output
+**/build/
+**/.cache/
+**/tmp/
+*.log
+
+# Local ESP-IDF configuration
+**/sdkconfig
+**/sdkconfig.old
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
